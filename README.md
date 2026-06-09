@@ -25,7 +25,7 @@
 2. Masuk ke menu **"Pengaturan"** > **"Ekstensi"**  
 3. Klik tombol **"Tambahkan Repositori"**  
 4. Masukkan URL repositori AnimeX :  
-   - https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/repo.json  
+   - https://raw.githubusercontent.com/singapore32414/AnimeX-V2/builds/repo.json  
    - Atau cukup klik [DISINI](https://shorturl.at/ZWMbk)  
 5. Klik **"Tambahkan"**  
 6. Ekstensi yang tersedia akan muncul di daftar  
